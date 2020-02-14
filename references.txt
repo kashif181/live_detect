@@ -1,0 +1,15 @@
+FOR LIVENESS
+------------
+
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.185.2063&rep=rep1&type=pdf
+
+https://github.com/farziengineer/FingerPrintLivenessDetection
+
+https://github.com/rodrigonogueira4/fingerprint_liveness
+
+https://github.com/StanleyGan/Fingerprint-liveness-detection​
+
+https://www.mathworks.com/matlabcentral/fileexchange/56046-fingerprint-liveness-detection-based-on-image-quality
+
+https://www.mathworks.com/matlabcentral/fileexchange/59827-image-quality-assessment-for-fake-biometric-detection
+

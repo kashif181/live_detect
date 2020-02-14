@@ -1,0 +1,4 @@
+This work was originally presented as Master´s thesis at Department of Biomedical Engineering at Brno University of Technology (www.vutbr.cz). Author of this work is Mr. Tomas Vana, the work was supervised by Mr. Lukas Smital. Now this work is also included into project COST-CZ-LD14013:
+New solutions for multimodal biometrics - enhancement of security and reliability of biometric technologies.
+
+Main file is "program.m" - GUI for loading the image and analysis. The work was implemented and tested with fingerpint database LiveDet 2009.
